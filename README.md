@@ -1,7 +1,7 @@
 # Traffic Object Detection
 This program can detect daily life traffic objects from fed footage; cars, humans, traffic lights, etc. Created for educational purposes and not meant to be used in real-life cases. Use with your own discretion!
 
-![image](https://github.com/osman-yuksel/Traffic-Object-Detection/blob/master/screenshot.jpg)
+![image](https://github.com/osman-yuksel/Traffic-Object-Detection-Script/blob/master/_.gif?raw=true)
 
 <h2>Requirements</h2>
 
